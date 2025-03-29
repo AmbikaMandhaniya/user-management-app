@@ -99,6 +99,8 @@ bashCopynpm run build
 yarn build
 The build folder will be created in the project directory with production-ready files.
 
+Vercel(deployment link) - https://vercel.com/ambika-mandhaniyas-projects/user-management-app
+
 
 License
 MIT
